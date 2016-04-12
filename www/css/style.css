@@ -211,3 +211,8 @@ p {
 .platform-android .popover{
 margin-top:10px;
 }
+
+.custom-dark{
+   color : #30393A !important; // text
+   background-color:blue!important; // for bg color
+}
