@@ -25,6 +25,16 @@ odinApp.application.config(function($stateProvider, $urlRouterProvider) {
     }
   })
 
+  .state('tab.map', {
+    url: '/map',
+    views: {
+      'tab-map': {
+        templateUrl: 'templates/tab-map.html',
+        controller: 'MapCtrl'
+      }
+    }
+  })
+
   .state('tab.chats', {
       url: '/chats',
       views: {
@@ -56,5 +66,5 @@ odinApp.application.config(function($stateProvider, $urlRouterProvider) {
 
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/tab/dash');
- 
+
 });
