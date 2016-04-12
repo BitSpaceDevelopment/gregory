@@ -1,14 +1,10 @@
-## Odin
+## Gregory
 
-This is a simple sample application built off the Ionic framework that adds some useful tools for working with Ionic and building hybrid applications. This application was built for Prairie Dev Con 2016 in order to introduce developers to the idea of building hybrid apps.
+Have you ever wanted an app that does EVERYTHING for you? Well for now you can have one that helps you with Ramp Up Weekend!
 
-### Slides
+### The Purpose
 
-Coming soon
-
-### Video
-
-Coming soon
+Gregory is an app that is designed to help you over the 55 hour event here you build your business. Get a map to the venue, a schedule for the weekend, contact info, news throughout the event.
 
 ### Requirements
 
